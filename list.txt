@@ -1,0 +1,5 @@
+soap
+broom
+mop
+backet
+cloth
